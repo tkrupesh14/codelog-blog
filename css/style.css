@@ -1,0 +1,51 @@
+:root{
+    --bg-olor:   #0099ff;
+}
+
+.search-m-btn{
+    border-radius: 50px;
+    background-color: var(--bg-olor);
+}
+
+.navbar{
+    background-color: var(--bg-olor);
+ 
+}
+.navbar .navbar-brand{
+    color: #fff;
+}
+.navbar .navbar-nav a{
+    color: #fff;
+}
+.navbar .dropdown-menu a{
+    color: var(--bg-olor);
+}
+
+.search-icon{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.search-icon:hover{
+    color: #fff;
+}
+.mdl-close{
+    position: relative;
+    top: 20px;
+    right: 18px;
+}
+.sb-btn{
+    background-color: var(--bg-olor);
+    border-radius: 50px;
+    border: none;
+    transition: all ease 0.1s;
+}
+.sb-btn:hover{
+    border-radius: 5px;
+}
+.post-date{
+    background-color: var(--bg-olor);
+}
+.post-title{
+    color: var(--bg-olor);
+}
